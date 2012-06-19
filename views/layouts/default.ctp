@@ -34,7 +34,9 @@
 	?>
 </head>
 <body>
-	
+	<div id="banner">
+			
+		</div>
 	<div id="container">
 		
 		<div id="content">
